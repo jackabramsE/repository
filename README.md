@@ -1,7 +1,3 @@
-<title>Edited at 26.12.2020 - Dissertation report</title>
-
-<meta name="description" content="Are there any tips for writing a dissertation report? If so, how can I manage that without interfering with my regular plans? Read this post to find help!" />
-
 <h1> Dissertation Report: Simple Guidelines for Writing </h1>
 <p>Academic documents should never be difficult to compose if you know the recommended guidelines. Below, we have steps to enable individuals to write a professional paper. As such, it will serve the purpose of guiding students in their academics. Now, what are the qualities of a good dissertation? They include: </p>
 <ol><li>Precise</li> <li>Clear</li> <li>Short</li> <li>Free from grammatical errors</li> </ol>
